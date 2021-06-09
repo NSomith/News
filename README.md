@@ -1,5 +1,5 @@
 # News
-Fetch latest news
+It fetches the latest news from newsapi.org which we can save it in our database
 
 ### Builde with
 1. Room
